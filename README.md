@@ -32,12 +32,6 @@ The clustering techniques provided insights into the dataset, revealing distinct
 ## Conclusion
 The analysis successfully segmented the dataset into meaningful clusters, which can be used to predict health risks and inform healthcare strategies.
 
-## How to Use
-Instructions on how to run the analysis in a local environment can be included here.
-
-## Dependencies
-List of libraries and tools required to run the project.
-
 ## Authors
 - Viraj Panchal
 
