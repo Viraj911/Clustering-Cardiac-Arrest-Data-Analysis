@@ -39,4 +39,6 @@ The analysis successfully segmented the dataset into meaningful clusters, which 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-- Mention any collaborators or data sources here.
+- 
+## Acknowledgments
+- Data provided by www.fingertips.co.in
